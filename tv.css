@@ -1,0 +1,22 @@
+h1{
+    font-size:100%;
+}
+#businessproposal {
+    position: relative;
+    border-radius: 90%;
+    align-content: left 20px;
+    transform:scale(0.75);
+}
+#BPplot{
+    font-family:arial,sans-serif;
+    font-size: medium;
+    border-style:solid #ccc;
+    line: height 1.6em;
+    text-align: justify; /* Justify the text for a clean, aligned look */
+    margin: 20px 0; /* Add margin for spacing above and below the paragraph */
+    padding: 10px; /* Add padding for spacing within the paragraph */
+    background-color: #f2f2f2; /* Add a background color */
+    border: 1px solid #ccc; /* Add a border for separation */
+    border-radius: 5px; /* Add rounded corners to the paragraph */
+    width:50%;
+}
